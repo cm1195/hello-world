@@ -1,3 +1,2 @@
 # hello-world
-# Test
-A test repository for Robotics
+A test repository for Robotics.
